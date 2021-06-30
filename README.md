@@ -1,4 +1,4 @@
-# Easy Bank App 
+# Digital Agency App 
 
 [live Site](https://a-digital-agency.netlify.app)
 
